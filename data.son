@@ -1,0 +1,1 @@
+obj universe 1 | kv 2 hello world | kv 2 goodbye earth | obj list 2 | li 3 msg hi.to.earth | li 3 msg2 bye.to.earth.bye.to.earth | obj multiverse 3 | kv 4 earth goodbye | end 3 | obj solaris 3 | kv 4 hello earth | end 3 | end 2 | end 1 | obj galaxy 1 | kv 2 world hello | end 1

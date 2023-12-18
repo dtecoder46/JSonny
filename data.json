@@ -1,0 +1,20 @@
+{
+  "universe": {
+    "hello": "world",
+    "goodbye": "earth",
+    "list": {
+      "msg": ["hi","to","earth"],
+      "msg2": ["bye","to","earth","bye","to","earth"],
+      "multiverse": {
+        "earth": "goodbye",
+      },
+      "solaris": {
+        "hello": "earth",
+      },
+    },
+  },
+  "galaxy": {
+    "world": "hello",
+  },
+
+}
