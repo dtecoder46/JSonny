@@ -2,8 +2,6 @@
 
 ![JSonny](jsonny.jpg)
 
-[![Dart](https://github.com/dtecoder46/JSonny/actions/workflows/dart.yml/badge.svg?event=release)](https://github.com/dtecoder46/JSonny/actions/workflows/dart.yml)
-
 A faster way to write JSON that is inspired by TailwindCSS syntax simplicity
 
 ## How It Works
