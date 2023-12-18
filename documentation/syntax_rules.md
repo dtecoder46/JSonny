@@ -1,4 +1,7 @@
 # JSonny
+
+![JSonny](jsonny.jpg)
+
 A faster way to write JSON that is inspired by TailwindCSS syntax simplicity
 
 ## The Rules
